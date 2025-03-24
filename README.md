@@ -3,7 +3,7 @@
 <h5 align="left">My name is Marcelo Bastos, i'm currently a Computer Engineering Student at the Federal University of Pernambuco.</h5>
 </p>
 
-- 🌱 I’m currently learning React, Haskell and Ruby
+- 🌱 I’m currently learning Angular and Ruby
 - ✏️ Digital and Graphical art enthusiast
 
 <h3 align="left">Languages and Tools:</h3>
